@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+
+
+
+![TBD_Business_Card_3](https://github.com/gmostofabd/gmostofabd.github.io/assets/78910261/6b820cea-6bf1-4181-973b-92c115cbfdd8)
+
+
+
+
+
 - 🔭 I’m currently working on **STEAM Education for Kids**
 
 - 👯 I’m looking to collaborate on **STEAM Education**
