@@ -101,10 +101,7 @@ A sample of my recent articles:
 ## Top Open Source -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/web-project)
 
-
-
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/web-project)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=gmostofa&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/al-folio)
 
 
 
