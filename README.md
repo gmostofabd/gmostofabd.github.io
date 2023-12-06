@@ -1,14 +1,5 @@
 # Golam Mostofa
 
-<h1 align="center">Hi 👋, I'm Golam Mostofa</h1>
-<h3 align="center">Electronics Engineer and Educator</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gmostofabd" alt="gmostofabd" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-
 
 
 ![TBD_Business_Card_3](https://github.com/gmostofabd/gmostofabd.github.io/assets/78910261/6b820cea-6bf1-4181-973b-92c115cbfdd8)
