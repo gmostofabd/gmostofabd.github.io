@@ -58,23 +58,8 @@
 </div>
 <hr/>
 
-<a> 
-    <a href="https://github.com/gmostofabd"><img alt="Al gmostofabd's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gmostofabd&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/gmostofabd"><img alt="Al gmostofabd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gmostofabd&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-<br/>
-<hr/>
-<br/>
 
 <p align="center"> © 2021 gmostofaBD, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
 https://
 </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmostofabd&show_icons=true&locale=en&layout=compact" alt="gmostofabd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmostofabd&show_icons=true&locale=en" alt="gmostofabd" /></p>
