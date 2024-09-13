@@ -15,25 +15,28 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 -  **Electronics & Programming**: My expertise spans electronic circuit analysis, microcontroller programming, and industrial automation. I integrate these technologies into practical and educational projects, enhancing both learning and real-world applications.
 -  **Web & App Development**: I excel in front-end development, Android app creation, and web design, creating dynamic and user-friendly applications and interfaces.
 
+
+
+<br/>
+<hr/>
+<br/>
+
+### 📚 **Featured Publication**
+- **Title:** *Design and Development of an Efficient IoT-based Egg Incubation System*
+- **Publisher:** IEEE
+- [Explore the Publication](https://ieeexplore.ieee.org/document/10212960)
+
 <br/>
 
 ### 🌱 **Currently Exploring**
-- **Python, Machine Learning, & AI**: Delving into advanced algorithms and intelligent systems to stay at the forefront of technological advancements.
-- **VLSI Designing**: Designing intricate integrated circuits to push the boundaries of hardware capabilities.
 
 <br/>
 
 ### 👯 **Let’s Collaborate On**
-- **Embedded Designs**: Developing customized solutions for diverse applications, from industrial to consumer electronics.
-- **Robotics**: Building innovative robots and systems, leveraging my expertise in automation and robotics.
 
 <br/>
 
 ### 🛠️ **My Favourite Tools**
-- **Programming Languages**: C, C++, CSS, HTML, JavaScript, Python, SQL
-- **Frameworks and Libraries**: Arduino, Python, Blogger, Fiverr, Illustrator
-- **Databases and Cloud Hosting**: GitHub Pages, MySQL
-- **Software and Tools**: Codepen, Git, Illustrator, OBS Studio, Stack Overflow, Visual Studio Code
 
 <br/>
 
@@ -54,14 +57,6 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 - [Google Dev](https://g.dev/gmostofabd)
 - Email: mostofa.melab@gmail.com
 
-<br/>
-<hr/>
-<br/>
-
-### 📚 **Featured Publication**
-- **Title:** *Design and Development of an Efficient IoT-based Egg Incubation System*
-- **Publisher:** IEEE
-- [Explore the Publication](https://ieeexplore.ieee.org/document/10212960)
 
 <br/>
 <hr/>
