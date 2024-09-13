@@ -9,9 +9,21 @@ I am serving a full time as a Sub-Divisional Engineer in the **Electrical and El
 
 In addition to my role at IUT, I lead two organizations: **melab BD** and **Technocraphy BD**. 
 
-**melab BD** focuses on the **design, development, and consultancy** of **Embedded Systems**, **Robotics**, **IoT** solutions, and **Industrial Automation**, and offers training in **Microcontroller Programming**, **PCB Design**, **Custom Engineering Solutions**, **Front-End Development**, **Cloud Technologies**, and **Android App Design**. 
+### 🌱 **melab BD**
+
+🙋‍♀️🙋‍♀️🙋‍♀️ **melab BD**  is an organization dedicated to the design, development, learning, and sharing of knowledge in the fields of electronics and microcontroller technology.
+A team of experienced electronic engineers are contributing here. Intended to share technical know how's on real need basis. A student, a beginner or a professional can get help from these documents.
+
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+
+
+### 🌱 **Technocraphy BD**
 
 Through **Technocraphy BD**, promotes **STEAM Education** in Bangladesh, inspiring young minds with hands-on learning in **Robotics**, **IoT**, and other technological fields.
+
+<br/>
+<hr/>
+<br/>
 
 On **Fiverr**, I utilize my extensive experience in **Embedded System Design**, **IoT**, **Robotics**, **Industrial Automation**, **Cloud Features**, and **Android App Development** to provide tailored solutions for various engineering projects. I have also contributed comprehensive tutorials on **GitHub**, helping learners worldwide understand the development and implementation of **Embedded Systems**, **Electronics**, **Robotics**, **IoT**, and related technologies.
 
