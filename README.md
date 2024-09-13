@@ -4,13 +4,12 @@
 
 # Hi There! I'm Golam Mostofa (gmostofaBD) 👋
 ---
-I am serving a full time as a Sub-Divisional Engineer in the **Electrical and Electronic Engineering (EEE)** department at **Islamic University of Technology (IUT)**, located in Gazipur, Bangladesh, a subsidiary of the **Organization of Islamic Cooperation (OIC)**. At IUT, I am responsible for providing students with hands-on training in the **Microprocessor and Control System Lab**. My experience includes **Electronic Circuit Analysis**, multi-layer **Printed Circuit Board (PCB) Designs**, **Microprocessors**, **Microcontrollers**, **Hardware Programming**, **IoT Applications**, **Robotics**, **Front-End Development**, **Industrial Automation**, **Cloud-Based Features**, and **Android App Design**, integrating these technologies into educational and practical projects.
 
+I am serving a full time as a Sub-Divisional Engineer in the **Electrical and Electronic Engineering (EEE)** department at **Islamic University of Technology (IUT)**, located in Gazipur, Bangladesh, a subsidiary of the **Organization of Islamic Cooperation (OIC)**. At IUT, I am responsible for providing students with hands-on training in the **Microprocessor and Control System Lab**. My experience includes **Electronic Circuit Analysis**, multi-layer **Printed Circuit Board (PCB) Designs**, **Microprocessors**, **Microcontrollers**, **Hardware Programming**, **IoT Applications**, **Robotics**, **Front-End Development**, **Industrial Automation**, **Cloud-Based Features**, and **Android App Design**, integrating these technologies into educational and practical projects.
 
 In addition to my role at IUT, I lead two organizations: **melab BD** and **Technocraphy BD**. 
 
 **melab BD** focuses on the **design, development, and consultancy** of **Embedded Systems**, **Robotics**, **IoT** solutions, and **Industrial Automation**, and offers training in **Microcontroller Programming**, **PCB Design**, **Custom Engineering Solutions**, **Front-End Development**, **Cloud Technologies**, and **Android App Design**. 
-
 
 Through **Technocraphy BD**, promotes **STEAM Education** in Bangladesh, inspiring young minds with hands-on learning in **Robotics**, **IoT**, and other technological fields.
 
@@ -24,7 +23,7 @@ Beyond his technical pursuits, Golam Mostofa contributes **short stories** and *
 
 <br/><br/>
 
-<h3 align="left">More about me ...</h3>
+<h3 align="left"> More about me ... </h3>
 ---
 
 ### 📚 **Featured Publication**
@@ -82,13 +81,7 @@ Beyond his technical pursuits, Golam Mostofa contributes **short stories** and *
 <hr/>
 <br/>
 
-<p align="center">
-  
-<a href="https://github.com/gmostofabd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-
-</p>
-
-###  👨‍💻  **Top Open Source**
+###  👨‍💻  **Top Open Source on Github**
 
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/web-projects) [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=8051-Assembly-Programming-and-Proteus-Simulation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)
 
@@ -97,18 +90,10 @@ Beyond his technical pursuits, Golam Mostofa contributes **short stories** and *
 <hr/>
 
 ###  🧰  **Frameworks and libraries**:
-
 <br/>
-<hr/>
-<br/>
-
 ###  🗄️  **Databases and Cloud Hosting**:
-
-
+<br/>
 ###  💻  **Software and tools**:
-
-
-
 
 <br/>
 <hr/>
