@@ -15,16 +15,17 @@ In addition to my role at IUT, I lead two organizations: **melab BD** and **Tech
 
 ### 🌱 **melab BD**
 
-🙋‍♀️🙋‍♀️🙋‍♀️ **melab BD**  is an organization dedicated to the design, development, learning, and sharing of knowledge in the fields of electronics and microcontroller technology.
+🙋‍♀️🙋‍♀️🙋‍♀️  **melab BD**  is an organization dedicated to the design, development, learning, and sharing of knowledge in the fields of electronics and microcontroller technology.
 A team of experienced electronic engineers are contributing here. Intended to share technical know how's on real need basis. A student, a beginner or a professional can get help from these documents.
----
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+      👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
 
 ### 🌱 **Technocraphy BD**
 
-Through **Technocraphy BD**, promotes **STEAM Education** in Bangladesh, inspiring young minds with hands-on learning in **Robotics**, **IoT**, and other technological fields.
+🙋‍♀️🙋‍♀️🙋‍♀️  **Technocraphy BD**, promotes **STEAM Education** in Bangladesh, inspiring young minds with hands-on learning in **Robotics**, **IoT**, and other technological fields.
+
+      👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
 <br/>
 <hr/>
