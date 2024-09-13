@@ -16,6 +16,21 @@ Through **Technocraphy BD**, promotes **STEAM Education** in Bangladesh, inspiri
 
 On **Fiverr**, I utilize my extensive experience in **Embedded System Design**, **IoT**, **Robotics**, **Industrial Automation**, **Cloud Features**, and **Android App Development** to provide tailored solutions for various engineering projects. I have also contributed comprehensive tutorials on **GitHub**, helping learners worldwide understand the development and implementation of **Embedded Systems**, **Electronics**, **Robotics**, **IoT**, and related technologies.
 
+<br/>
+<hr/>
+<br/>
+
+Beyond his technical pursuits, Golam Mostofa contributes **short stories** and **poems** to Bengali literary compilations and maintains **blogs** and **YouTube channels** where he documents his engineering activities and educational content. Actively engaged in research and having presented at **international conferences**, Golam Mostofa remains dedicated to advancing **Embedded Systems**, **Robotics**, **IoT**, **Industrial Automation**, and **Android App Development**, driving innovation, and making a significant impact on the engineering and technology communities.
+
+<br/><br/>
+
+<h3 align="left">More about me ...</h3>
+---
+
+### 📚 **Featured Publication**
+- **Title:** *Design and Development of an Efficient IoT-based Egg Incubation System*
+- **Publisher:** IEEE
+- [Explore the Publication](https://ieeexplore.ieee.org/document/10212960)
 
 ### 📫 **Connect with Me**
 - [GitHub](https://github.com/your-profile)
@@ -27,35 +42,6 @@ On **Fiverr**, I utilize my extensive experience in **Embedded System Design**, 
 - [Google Dev](https://g.dev/gmostofabd)
 - Email: mostofa.melab@gmail.com
 
-<br/>
-<hr/>
-<br/>
-
-
-
-
-Beyond his technical pursuits, Golam Mostofa contributes **short stories** and **poems** to Bengali literary compilations and maintains **blogs** and **YouTube channels** where he documents his engineering activities and educational content. Actively engaged in research and having presented at **international conferences**, Golam Mostofa remains dedicated to advancing **Embedded Systems**, **Robotics**, **IoT**, **Industrial Automation**, and **Android App Development**, driving innovation, and making a significant impact on the engineering and technology communities.
-
-<br/><br/>
-
-<h3 align="left">More about me ...</h3>
----
-
-### 🔭 **What I Do**
--  **Embedded Systems & IoT**: I specialize in crafting custom solutions, including PCB designs and robotics. At melab BD, I drive the design and development of embedded systems and IoT solutions, providing consultancy and training to both clients and students.
--  **Electronics & Programming**: My expertise spans electronic circuit analysis, microcontroller programming, and industrial automation. I integrate these technologies into practical and educational projects, enhancing both learning and real-world applications.
--  **Web & App Development**: I excel in front-end development, Android app creation, and web design, creating dynamic and user-friendly applications and interfaces.
-
-
-
-<br/>
-<hr/>
-<br/>
-
-### 📚 **Featured Publication**
-- **Title:** *Design and Development of an Efficient IoT-based Egg Incubation System*
-- **Publisher:** IEEE
-- [Explore the Publication](https://ieeexplore.ieee.org/document/10212960)
 
 <br/>
 
