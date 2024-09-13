@@ -4,7 +4,38 @@
 
 # Hi There! I'm Golam Mostofa (gmostofaBD) 👋
 ---
-I'm a passionate Electronic Engineer at an Engineering University in Bangladesh. With a background in technology research and international conference experience, I love diving into hands-on projects and exploring innovative solutions.
+I am serving a full time as a Sub-Divisional Engineer in the **Electrical and Electronic Engineering (EEE)** department at **Islamic University of Technology (IUT)**, located in Gazipur, Bangladesh, a subsidiary of the **Organization of Islamic Cooperation (OIC)**. At IUT, I am responsible for providing students with hands-on training in the **Microprocessor and Control System Lab**. My experience includes **Electronic Circuit Analysis**, multi-layer **Printed Circuit Board (PCB) Designs**, **Microprocessors**, **Microcontrollers**, **Hardware Programming**, **IoT Applications**, **Robotics**, **Front-End Development**, **Industrial Automation**, **Cloud-Based Features**, and **Android App Design**, integrating these technologies into educational and practical projects.
+
+
+In addition to my role at IUT, I lead two organizations: **melab BD** and **Technocraphy BD**. 
+
+**melab BD** focuses on the **design, development, and consultancy** of **Embedded Systems**, **Robotics**, **IoT** solutions, and **Industrial Automation**, and offers training in **Microcontroller Programming**, **PCB Design**, **Custom Engineering Solutions**, **Front-End Development**, **Cloud Technologies**, and **Android App Design**. 
+
+
+Through **Technocraphy BD**, promotes **STEAM Education** in Bangladesh, inspiring young minds with hands-on learning in **Robotics**, **IoT**, and other technological fields.
+
+On **Fiverr**, I utilize my extensive experience in **Embedded System Design**, **IoT**, **Robotics**, **Industrial Automation**, **Cloud Features**, and **Android App Development** to provide tailored solutions for various engineering projects. I have also contributed comprehensive tutorials on **GitHub**, helping learners worldwide understand the development and implementation of **Embedded Systems**, **Electronics**, **Robotics**, **IoT**, and related technologies.
+
+
+### 📫 **Connect with Me**
+- [GitHub](https://github.com/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [YouTube](https://www.youtube.com/channel/your-channel)
+- [Twitter](https://twitter.com/your-profile)
+- [Fiverr](https://www.fiverr.com/melab_bd)
+- [Personal Website](https://sites.google.com/view/gmostofabd)
+- [Google Dev](https://g.dev/gmostofabd)
+- Email: mostofa.melab@gmail.com
+
+<br/>
+<hr/>
+<br/>
+
+
+
+
+Beyond his technical pursuits, Golam Mostofa contributes **short stories** and **poems** to Bengali literary compilations and maintains **blogs** and **YouTube channels** where he documents his engineering activities and educational content. Actively engaged in research and having presented at **international conferences**, Golam Mostofa remains dedicated to advancing **Embedded Systems**, **Robotics**, **IoT**, **Industrial Automation**, and **Android App Development**, driving innovation, and making a significant impact on the engineering and technology communities.
+
 <br/><br/>
 
 <h3 align="left">More about me ...</h3>
@@ -47,21 +78,6 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 <hr/>
 <br/>
 
-### 📫 **Connect with Me**
-- [GitHub](https://github.com/your-profile)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [YouTube](https://www.youtube.com/channel/your-channel)
-- [Twitter](https://twitter.com/your-profile)
-- [Fiverr](https://www.fiverr.com/melab_bd)
-- [Personal Website](https://sites.google.com/view/gmostofabd)
-- [Google Dev](https://g.dev/gmostofabd)
-- Email: mostofa.melab@gmail.com
-
-
-<br/>
-<hr/>
-<br/>
-
 ###  👨‍💻  **Check Out My Projects**
 - [Discover My Work](https://sites.google.com/view/gmostofabd/projects/)
 -  [https://sites.google.com/view/gmostofabd/projects/](https://sites.google.com/view/gmostofabd/projects?authuser=0)
@@ -89,11 +105,6 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 ###  👨‍💻  **Top Open Source**
 
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/web-projects) [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=8051-Assembly-Programming-and-Proteus-Simulation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)
-
-<br/>
-<hr/>
-<br/>
-
 
 </p>
 <br/>
