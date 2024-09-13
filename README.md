@@ -9,10 +9,15 @@ I am serving a full time as a Sub-Divisional Engineer in the **Electrical and El
 
 In addition to my role at IUT, I lead two organizations: **melab BD** and **Technocraphy BD**. 
 
+<br/>
+<hr/>
+<br/>
+
 ### 🌱 **melab BD**
 
 🙋‍♀️🙋‍♀️🙋‍♀️ **melab BD**  is an organization dedicated to the design, development, learning, and sharing of knowledge in the fields of electronics and microcontroller technology.
 A team of experienced electronic engineers are contributing here. Intended to share technical know how's on real need basis. A student, a beginner or a professional can get help from these documents.
+---
 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
