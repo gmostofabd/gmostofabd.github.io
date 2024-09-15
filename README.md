@@ -2,8 +2,9 @@
 
 <hr/>
 
-# Welcome to gmostofaBD
+👋 **Welcome to gmostofabd's GitHub!**
 ---
+I'm **Golam Mostofa**, an engineer and educator passionate about **Embedded Systems**, **IoT**, **Robotics**, and **Android App Development**. I enjoy creating solutions, sharing knowledge, and contributing to open-source projects that push the boundaries of technology.
 
 I am serving a full time as a Sub-Divisional Engineer in the **Electrical and Electronic Engineering (EEE)** department at **Islamic University of Technology (IUT)**, located in Gazipur, Bangladesh, a subsidiary of the **Organization of Islamic Cooperation (OIC)**. At IUT, I am responsible for providing students with hands-on training in the **Microprocessor and Control System Lab**. My experience includes **Electronic Circuit Analysis**, multi-layer **Printed Circuit Board (PCB) Designs**, **Microprocessors**, **Microcontrollers**, **Hardware Programming**, **IoT Applications**, **Robotics**, **Front-End Development**, **Industrial Automation**, **Cloud-Based Features**, and **Android App Design**, integrating these technologies into educational and practical projects.
 
