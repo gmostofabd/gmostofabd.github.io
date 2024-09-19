@@ -6,7 +6,7 @@
 
 <hr/>
 
-👋 **Welcome to gmostofabd's GitHub!**
+👋 **Welcome to gmostofaBD's GitHub!**
 ---
 I'm **Golam Mostofa**, an engineer and educator passionate about **Embedded Systems**, **IoT**, **Robotics**, and **Android App Development**. I enjoy creating solutions, sharing knowledge, and contributing to open-source projects that push the boundaries of technology.
 
