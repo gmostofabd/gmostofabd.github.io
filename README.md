@@ -1,4 +1,8 @@
-![TBD_Business_Card_4_HQ](https://github.com/gmostofabd/gmostofabd/assets/78910261/0d485742-6264-4dba-bf1b-e0812705907f)
+
+<p align="center">
+  <img src="https://github.com/gmostofabd/gmostofabd/assets/78910261/0d485742-6264-4dba-bf1b-e0812705907f" alt="Business Card" width="70%">
+</p>
+
 
 <hr/>
 
