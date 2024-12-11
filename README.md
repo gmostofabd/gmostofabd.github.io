@@ -1,6 +1,6 @@
 
-<p align="center">
-  <img src="https://github.com/gmostofabd/gmostofabd/assets/78910261/0d485742-6264-4dba-bf1b-e0812705907f" alt="Business Card" width="70%">
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/56d84942-8999-4887-a0ff-d8ee085a6e32" alt="Business Card" width="70%">
 </p>
 
 
