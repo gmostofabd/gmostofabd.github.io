@@ -1,10 +1,5 @@
 
-<p align="center">
-  <img src="https://github.com/gmostofabd/gmostofabd/assets/78910261/0d485742-6264-4dba-bf1b-e0812705907f" alt="Business Card" width="70%">
-</p>
-
-
-<hr/>
+![IMG_20221013_104948259_HDR](https://github.com/user-attachments/assets/41ff3cb5-1b0a-4833-a7d6-b6797badbadf)
 
 👋 **Welcome to gmostofaBD's GitHub!**
 ---
