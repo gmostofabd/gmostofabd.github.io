@@ -8,11 +8,18 @@
 
 👋 **Welcome to gmostofaBD's GitHub!**
 ---
-I'm **Golam Mostofa**, an engineer and educator passionate about **Embedded Systems**, **IoT**, **Robotics**, and **Android App Development**. I enjoy creating solutions, sharing knowledge, and contributing to open-source projects that push the boundaries of technology.
+He is an accomplished electronics engineer and educator with a passion for embedded systems, IoT, robotics, and Android app development. 
 
-I am serving a full time as a Sub-Divisional Engineer in the **Electrical and Electronic Engineering (EEE)** department at **Islamic University of Technology (IUT)**, located in Gazipur, Bangladesh, a subsidiary of the **Organization of Islamic Cooperation (OIC)**. At IUT, I am responsible for providing students with hands-on training in the **Microprocessor and Control System Lab**. My experience includes **Electronic Circuit Analysis**, multi-layer **Printed Circuit Board (PCB) Designs**, **Microprocessors**, **Microcontrollers**, **Hardware Programming**, **IoT Applications**, **Robotics**, **Front-End Development**, **Industrial Automation**, **Cloud-Based Features**, and **Android App Design**, integrating these technologies into educational and practical projects.
+Beyond his role at IUT, Golam Mostofa is dedicated to promoting STEAM (Science, Technology, Engineering, Arts, and Mathematics) education across Bangladesh. Through his initiative, Technocraphy BD, he offers engaging, hands-on learning experiences in robotics, IoT, and other technological fields, aiming to inspire and equip the next generation of innovators. 
 
-In addition to my role at IUT, I lead two organizations: **melab BD** and **Technocraphy BD**. 
+An active contributor to the open-source community, he shares a diverse array of projects and tutorials on his GitHub profile. His repositories cover topics such as microcontroller programming, IoT, robotics, and more, providing valuable resources for both beginners and advanced learners. 
+
+His commitment to education and innovation is evident in his extensive work on platforms like GitHub, where he provides tutorials and resources on embedded systems, robotics, and more. 
+
+He also leads Technocraphy BD, focusing on promoting STEAM education in Bangladesh through engaging, hands-on learning experiences in robotics, IoT, and other technological fields. 
+
+Through his multifaceted efforts, Golam Mostofa continues to inspire and empower others in the fields of technology and education.
+
 
 <br/>
 <hr/>
